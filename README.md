@@ -1,2 +1,2 @@
 # hello-world
-My first GitHub repository, made during the Git lab in INFO 6540.
+This is my first GitHub repository, made during a Git lab in the Dalhousie University course "INFO 6540 - Data Management". It is small, but I'm very proud of it.
